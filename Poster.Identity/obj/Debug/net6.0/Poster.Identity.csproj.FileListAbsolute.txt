@@ -1,0 +1,12 @@
+D:\Портфолио\Poster\Poster.Identity\bin\Debug\net6.0\Poster.Identity.deps.json
+D:\Портфолио\Poster\Poster.Identity\bin\Debug\net6.0\Poster.Identity.dll
+D:\Портфолио\Poster\Poster.Identity\bin\Debug\net6.0\Poster.Identity.pdb
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.csproj.AssemblyReference.cache
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.AssemblyInfoInputs.cache
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.AssemblyInfo.cs
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.csproj.CoreCompileInputs.cache
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.dll
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\refint\Poster.Identity.dll
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\Poster.Identity.pdb
+D:\Портфолио\Poster\Poster.Identity\obj\Debug\net6.0\ref\Poster.Identity.dll

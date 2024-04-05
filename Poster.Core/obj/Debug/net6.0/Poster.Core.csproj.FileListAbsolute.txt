@@ -1,0 +1,11 @@
+D:\Портфолио\Poster\Poster.Core\bin\Debug\net6.0\Poster.Core.deps.json
+D:\Портфолио\Poster\Poster.Core\bin\Debug\net6.0\Poster.Core.dll
+D:\Портфолио\Poster\Poster.Core\bin\Debug\net6.0\Poster.Core.pdb
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.AssemblyInfoInputs.cache
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.AssemblyInfo.cs
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.csproj.CoreCompileInputs.cache
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.dll
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\refint\Poster.Core.dll
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\Poster.Core.pdb
+D:\Портфолио\Poster\Poster.Core\obj\Debug\net6.0\ref\Poster.Core.dll

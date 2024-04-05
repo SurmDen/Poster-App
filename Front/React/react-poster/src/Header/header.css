@@ -1,0 +1,7 @@
+.hdr{
+    min-height: 60px;
+    background-color: rgb(21, 20, 20);
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}

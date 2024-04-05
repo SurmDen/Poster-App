@@ -1,0 +1,13 @@
+.btn{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background:none;
+    border-radius: 5px;
+    border: none;
+}
+
+.active-btn{
+    border-bottom: 2px solid rgb(204, 152, 194);
+    border-top: 2px solid rgb(204, 152, 194);
+}

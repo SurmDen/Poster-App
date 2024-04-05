@@ -1,0 +1,127 @@
+.user-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.signing-block{
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 12px black;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: fit-content;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    background: none;
+    border: 2px solid rgb(212, 210, 210);
+    margin-bottom: 15px;
+    color: rgb(55, 162, 126);
+}
+
+input:focus{
+    border: 2px solid rgb(26, 117, 87);
+}
+
+
+.switch-line{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.switch-btn{
+    border: none;
+    background: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 20px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.btn-active{
+    color: rgb(55, 162, 126);
+    border-bottom: 2px solid rgb(55, 162, 126);
+}
+
+.post-btn{
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 3px 7px;
+    font-size: 18px;
+    background-color: rgb(55, 162, 126);
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.user-block{
+    display: flex;
+}
+
+.poster-img{
+    width: 40vw;
+    margin-right: 15px;
+}
+
+.user-block-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-block-info img{
+    width: 100px;
+    height: auto;
+}
+
+.user-block-name{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.user-block-email{
+    color: rgb(26, 117, 87);
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.exit-button{
+    color: #b58ea4;
+    background: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    padding: 3px 8px;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 4px;
+    position: absolute;
+    cursor: pointer;
+    text-align: center;
+    top: 15px;
+    right: 10px;
+}
+
+.remove-btn{
+    outline: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.remove-btn img{
+    width: 25px;
+    height: auto;
+    margin-left: 25px;
+}
