@@ -2,6 +2,7 @@
 In this application i collaborate my Asp Net Core and React skills.
 You can make CRUD operations with posts, manage your account
 and look posts of other users.
+
 Poster - web server, that includes API Controllers for Users, Posts and Categories;
 
 Poster.Identity - library, contains services to provide JWT Bearer Authentication;
